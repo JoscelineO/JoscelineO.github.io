@@ -8,7 +8,7 @@ comments: true
 share: true
 modified: 2017-06-01T14:18:57-04:00
 image:
-  feature:
+  feature: my-city-guides.png
 ---
 
 HTML - CSS - Node.js - Mongoose - JavaScript - JQuery - Bootstrap
