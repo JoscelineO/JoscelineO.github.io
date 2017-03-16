@@ -43,13 +43,13 @@
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
           {% endif %}
+          <div class="app-link">
+            <a href="{{ page.site }}">
+              Check out the site
+            </a>
+          </div>
         </div><!-- /.entry-content -->
       </div><!-- /.entry-wrapper -->
-      {% if post.link-url %}
-      <a href="{{ post.link-url }}">
-        {{ post.title }}
-      </a>
-      {% endif %}
       <nav class="pagination" role="navigation">
         {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>

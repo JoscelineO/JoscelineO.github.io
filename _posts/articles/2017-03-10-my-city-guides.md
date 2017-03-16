@@ -9,6 +9,7 @@ share: true
 modified: 2017-06-01T14:18:57-04:00
 image:
   feature: my-city-guides.png
+site: https://my-city-guides.herokuapp.com/
 ---
 
 HTML - CSS - Node.js - Mongoose - JavaScript - JQuery - Bootstrap
